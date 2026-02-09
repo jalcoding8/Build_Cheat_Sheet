@@ -33,7 +33,7 @@ body {
 
 .progress-line span {
     position: absolute;
-    content: "0";
+    content: "0%";
     height: inherit;
     width: 100%;
     background: #9ccc9c;
