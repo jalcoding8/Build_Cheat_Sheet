@@ -14,7 +14,7 @@
    * The README.md utilized the Markdown language syntax
    * VS Code utilized as 'best practice' trifecta of Bash, GitHub and VS Code.
    * Added a tab favicon camera image for webpage
-   * <img src="https://tinyurl.com/yc8j6hcv/" width="50" height="50" alt="favicon image">
+   * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIpLjUor_tnUBbCoxkulnENq3Z4K8Spx2EhA&s" width="50" height="50" alt="favicon image">
   
      
 ## Technologies
