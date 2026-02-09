@@ -21,3 +21,4 @@ Project Structure:
    *  `style.css`    - Stylesheets
    *  `.gitignore` - Version control exclusions
    *  `README.md`  - Project outline
+   *  `License`
