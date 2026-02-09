@@ -12,7 +12,7 @@
 ## General Information
    *  This repository was created as a project to use **HTML5**, and/or **CSS3** to convey understanding of syntax structure and functionality. 
    * The README.md utilized the Markdown language syntax
-   * VS Code utilized as 'best practice' trifecta of Bash, GitHub and VS Code.
+   * VS Code utilized as 'best practice' trifecta of Bash (Git), GitHub and VS Code.
    * Added a tab favicon loading bar image for webpage
    * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIpLjUor_tnUBbCoxkulnENq3Z4K8Spx2EhA&s" width="50" height="50" alt="favicon image">
   
