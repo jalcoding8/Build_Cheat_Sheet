@@ -1,4 +1,4 @@
-# Project webpage that includes an HTML or CSS topic
+# Project webpage that includes an HTML or CSS topic. This webpage shows how to build a simple loading bar with HTML and CSS.
 
 ## Table of Contents
    *  [LICENSE](#license)
