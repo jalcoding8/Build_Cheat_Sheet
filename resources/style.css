@@ -40,7 +40,7 @@ body {
     border-radius: 0.7rem;
     transform: scaleX(0);
     transform-origin: left;
-    animation: animate 1.5s cubic-bezier(0.3,0.5,0.7,1) forwards;
+    animation: animate 1.6s cubic-bezier(0.3,0.5,0.7,1) forwards;
 }
 
 .progress-line span::after {
