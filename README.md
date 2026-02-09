@@ -4,6 +4,7 @@
    *  [LICENSE](#license)
    *  [README.md](#readmemd)
    *  [Project Structure](#project-structure)
+   *  [gitignore](#.gitignore)
 
 ## General Information
    *  This repository was created as a project to use **HTML5**, and/or **CSS3** to convey understanding of syntax structure and functionality. 
