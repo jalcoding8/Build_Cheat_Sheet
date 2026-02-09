@@ -1,7 +1,6 @@
 # Project webpage that includes an HTML or CSS topic. 
-
-
 ## This webpage shows how to build a simple loading bar with HTML and CSS.
+<img src="loading_bar_image.png" alt="Loading bar image" width="100" height="100">
 
 ## Table of Contents
    *  [LICENSE](#license)
