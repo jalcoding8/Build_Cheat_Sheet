@@ -1,5 +1,5 @@
 # Project webpage that includes an HTML or CSS topic. 
-![Loading bar image](<img width="100" height="100" alt="loading_bar_image" src="https://github.com/user-attachments/assets/f0fdf832-0d71-43eb-95fe-7508e0a765a1" />
+![Loading bar image](loading_bar_image.png)
 )
 
 ## This webpage shows how to build a simple loading bar with HTML and CSS.
