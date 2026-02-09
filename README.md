@@ -1,6 +1,6 @@
 # Project webpage that includes an HTML or CSS topic. 
 ![Loading bar image](loading_bar_image.png)
-)
+
 
 ## This webpage shows how to build a simple loading bar with HTML and CSS.
 
